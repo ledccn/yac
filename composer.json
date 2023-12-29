@@ -1,0 +1,20 @@
+{
+    "name": "ledc/yac",
+    "description": "Yac是一个用于PHP的共享和无锁存储器",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ledc\\Yac\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "david",
+            "email": "367013672@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1|^8.2|^8.3"
+    }
+}
